@@ -18,7 +18,7 @@ The bracket seeding was conducted using a rigorous 2-step methodological approac
 1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
 2. A ranking scheme based upon how many hymnals each song appears in, according to hymnary.org
 
-The first metric is likely biased by the 1980s Christian Reformed Church in Platte, SD; the latter metric is certainly biased by Baptist and Methodist hymnals.
+The first metric is likely biased by the selection of hymns in the 1980s Christian Reformed Church in Platte, SD; the latter metric is likely biased by the wide array of Baptist and Methodist hymnals.
 
 This is a voting-by-round bracket. For each round you’ll vote for which hymn you’d like to see advance (by whatever personal approach you prefer) via google forms. At the end of each round the results will tallied for the next round of voting matchups.
 
