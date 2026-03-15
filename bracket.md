@@ -7,7 +7,7 @@ title: "The Blue Psalter Hymnal Bracket"
 
 ## What's Best of the Blue?
 
-<p>The Christian Reformed Church, from its American beginnings in 1857, used the Dutch language in worship. The Synod of 1914 authorized the use of an English-language <i>Psalter</i> which was produced by a committee drawn largely from the United Presbyterian Church. Twenty years later, another Synod approved the first Os (1934) otherwise known as the "red" hymnal. The Synod of 1951 set in motion the work to revise and improve the <i>Psalter Hymnal</i>. Given the the denomination's one hundredth birthday, the new <i>Psalter Hymnal</i> (1959) was officially the Centennial Edition, but both the 1959 edition and the 1976 reprinting would eventually derive its name from its blue color.</p>
+<p>The Christian Reformed Church, from its American beginnings in 1857, used the Dutch language in worship. The Synod of 1914 authorized the use of an English-language <i>Psalter</i> which was produced by a committee drawn largely from the United Presbyterian Church. Twenty years later, another Synod approved the first <i>Psalter Hymnal</i> (1934) otherwise known as the "red" hymnal. The Synod of 1951 set in motion the work to revise and improve the <i>Psalter Hymnal</i>. Given the the denomination's approaching one hundredth birthday, the new <i>Psalter Hymnal</i> (1959) was officially known as the Centennial Edition, but both the 1959 edition and the 1976 reprinting would eventually derive its name from its blue cover.</p>
 
 In the spirit of March Madness, this is an opportunity to explore the pages of the blue and vote for your favorite hymn (a full list of hymns in the Blue _Psalter Hymnal_ can be found at [hymnary.org](https://hymnary.org/hymnal/BPsH)
 
