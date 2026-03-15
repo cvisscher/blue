@@ -29,3 +29,5 @@ This is a voting-by-round bracket. For each round you’ll vote for which hymn y
 
 [Round 1 - Nicea Region](https://docs.google.com/forms/d/e/1FAIpQLSeMrQ80e0lkhB6XPLIzbEX-2xKX9PHZ3aIsWIRgE3PxqXCZIQ/viewform?usp=publish-editor) Top seed: **Holy, Holy, Holy (318)**
 
+[Round 1 - Old Hundredth Region](https://docs.google.com/forms/d/e/1FAIpQLSfQRk5w7qoC2UVLRz3eqUIFdMfJH2txSgiP9ZZKnCzdgLAwsg/viewform?usp=header) Top seed: **Praise God from Whom All Blessings Flow (493)**
+
