@@ -24,12 +24,12 @@ This is a voting-by-round bracket. For each round you’ll vote for which hymn y
 
 ## Vote
 
-[Round 1 - Eventide Region](https://docs.google.com/forms/d/e/1FAIpQLSdTLB_39uPYXbGLG0z_TS40sI97bC74pC_TUPtQ6CLyvEMESA/viewform?usp=header) Top seed: **Abide with Me (470)** 
+[**Round 1 - Eventide Region**](https://docs.google.com/forms/d/e/1FAIpQLSdTLB_39uPYXbGLG0z_TS40sI97bC74pC_TUPtQ6CLyvEMESA/viewform?usp=header) Top seed: **Abide with Me (470)** 
 
-[Round 1 - Nicea Region](https://docs.google.com/forms/d/e/1FAIpQLSeMrQ80e0lkhB6XPLIzbEX-2xKX9PHZ3aIsWIRgE3PxqXCZIQ/viewform?usp=publish-editor) Top seed: **Holy, Holy, Holy (318)**
+[**Round 1 - Nicea Region**](https://docs.google.com/forms/d/e/1FAIpQLSeMrQ80e0lkhB6XPLIzbEX-2xKX9PHZ3aIsWIRgE3PxqXCZIQ/viewform?usp=publish-editor) Top seed: **Holy, Holy, Holy (318)**
 
-[Round 1 - Old Hundredth Region](https://docs.google.com/forms/d/e/1FAIpQLSfQRk5w7qoC2UVLRz3eqUIFdMfJH2txSgiP9ZZKnCzdgLAwsg/viewform?usp=header) Top seed: **Praise God from Whom All Blessings Flow (493)**
+[**Round 1 - Old Hundredth Region**](https://docs.google.com/forms/d/e/1FAIpQLSfQRk5w7qoC2UVLRz3eqUIFdMfJH2txSgiP9ZZKnCzdgLAwsg/viewform?usp=header) Top seed: **Praise God from Whom All Blessings Flow (493)**
 
-[Round 1 - Crystal Region](https://docs.google.com/forms/d/e/1FAIpQLSew9KBaulvNtGKO4UMp_7vt-RHO1pFNN9DxSnoaC2y5iipHnQ/viewform?usp=header) Top seed: **By the Sea of Crystal (469)**
+[**Round 1 - Crystal Region**](https://docs.google.com/forms/d/e/1FAIpQLSew9KBaulvNtGKO4UMp_7vt-RHO1pFNN9DxSnoaC2y5iipHnQ/viewform?usp=header) Top seed: **By the Sea of Crystal (469)**
 
 Round 1 closes March 20. Round 2 begins March 21.
