@@ -1,0 +1,63 @@
+---
+layout: minimal
+title: "The Blue Psalter Hymnal Bracket"
+---
+
+<h2>What's Best of the Blue?</h2>
+
+<p>The Christian Reformed Church, from its American beginnings in 1857, used the Dutch language in worship. The Synod of 1914 authorized the use of an English-language <i>Psalter</i> which was produced by a committee drawn largely from the United Presbyterian Church. Twenty years later, another Synod approved the first <i>Psalter Hymal</i> (1934) otherwise known as the "red" hymnal. The Synod of 1951 set in motion the work to revise and improve the <i>Psalter Hymal</i>. Given the the denomination's one hundredth birthday, the new <i>Psalter Hymal</i> (1959) was officially the Centennial Edition, but both the 1959 edition and the 1976 reprinting would eventually derive its name from its blue color.</p>
+
+
+In the spirit of March Madness, this is an opportunity to explore the pages of the blue and vote for your favorite hymn (a full list of hymns in the Psalter Hymnal can be found at [hymnary.org](https://hymnary.org/hymnal/BPsH)
+
+
+
+<h2>Skills</h2>
+
+<ul class="skill-list">
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Design Responsivo (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>NodeJS</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
+	<li>Git</li>
+	<li>PHP</li>
+	<li>Python</li>
+	<li>MySQL - MongoDB</li>
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
+</ul>
+
+<h2>Projetos</h2>
+
+<script src="https://utteranc.es/client.js"
+        repo="[cvisscher/blue]"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
+
+      <div class="page__comments">
+  
+  
+      <h4 class="page__comments-title">Leave a comment</h4>
+      
+      
+      <p class="small">
+      Comments are powered by <a href="https://utteranc.es/">Utterances</a>. A free <a href="https://github.com/">GitHub account</a> is required. <i>Comments are moderated.</i> <b>Be respectful. No swearing or inflammatory language. No spam.</b><br> <i>I reserve the right to delete any inappropriate comments.</i> All comments for all pages <a href="https://github.com/ElectricRCAircraftGuy/ElectricRCAircraftGuy.github.io/issues?q=label%3Awebsite_comments+"> can be viewed and <i>searched</i> online here</a>.<br><br>
+<b>To edit or delete your comment:</b> <b>Option 1 (recommended):</b> click the date just above your comment, ex: the <code>just now</code> or <code>5 minutes ago</code> (or equivalent) part where it says <code>YOUR_NAME commented just now</code> or <code>YOUR_NAME commented 5 minutes ago</code>, etc., <i>or</i> <b>Option 2:</b> click the "Comments" link at the top of the comments section below where it says how many comments have been left. Option 1 will take you directly to your comment on GitHub. Option 2 will take you to a GitHub page with all comments for this page. Then: --> find your comment on this GitHub page and click the 3 dots in the top-right of your comment --> click "Edit" or "Delete". Editing or adding a comment from the GitHub page also gives you a nicer editor.
+      </p>
+      
+      <section id="utterances-comments"></section>
+    
+</div>
+
+<ul>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
