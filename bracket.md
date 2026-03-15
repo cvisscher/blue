@@ -12,10 +12,8 @@ title: "The Blue Psalter Hymnal Bracket"
 <p><center>
 <img
   class="fit-picture"
-  width="80%"
-  height="80%"
-  src="/assets/img/blue-psalter-hymnal.jpg"
-  alt="A plot of objects from planets to stars" />  
+  width="40%"
+  src="/assets/img/blue-psalter-hymnal.jpg" />  
 </center>
 </p>
 
