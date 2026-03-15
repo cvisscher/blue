@@ -12,7 +12,7 @@ title: "The Blue Psalter Hymnal Bracket"
 <p><center>
 <img
   class="fit-picture"
-  width="20%"
+  width="50%"
   src="https://cvisscher.github.io/blue/blue-psalter-hymnal.jpg" />  
 </center>
 </p>
