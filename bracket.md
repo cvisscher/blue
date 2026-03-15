@@ -3,6 +3,8 @@ layout: minimal
 title: "The Blue Psalter Hymnal Bracket"
 ---
 
+[take me to the voting links!](#vote)
+
 ## What's Best of the Blue?
 
 <p>The Christian Reformed Church, from its American beginnings in 1857, used the Dutch language in worship. The Synod of 1914 authorized the use of an English-language <i>Psalter</i> which was produced by a committee drawn largely from the United Presbyterian Church. Twenty years later, another Synod approved the first _Psalter Hymnal_ (1934) otherwise known as the "red" hymnal. The Synod of 1951 set in motion the work to revise and improve the _Psalter Hymnal_. Given the the denomination's one hundredth birthday, the new _Psalter Hymnal_ (1959) was officially the Centennial Edition, but both the 1959 edition and the 1976 reprinting would eventually derive its name from its blue color.</p>
@@ -10,54 +12,15 @@ title: "The Blue Psalter Hymnal Bracket"
 
 In the spirit of March Madness, this is an opportunity to explore the pages of the blue and vote for your favorite hymn (a full list of hymns in the Blue _Psalter Hymnal_ can be found at [hymnary.org](https://hymnary.org/hymnal/BPsH)
 
+## The Bracket
+The full 64-hymn bracket can be found here: [printable bracket](https://cvisscher.github.io/blue/64-hymn-bracket.pdf)
 
+The bracket seeding was conducted using a rigorous 2-step methodological approach based on a selection of 64 hymns. Note that traditional advent and lent* hymns (*unless it is a song that could be, say, used for communion year-round) have been omitted. 
+1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
+2. A ranking scheme based upon how many hymnals each song appears in, according to hymnary.org
+The first metric is likely biased by the 1980s Christian Reformed Church in Platte, SD; the latter metric is certainly biased by Baptist and Methodist hymnals.
 
-<h2>Skills</h2>
+This is a voting-by-round bracket. For each round you’ll vote for which hymn you’d like to see advance (by whatever personal approach you prefer) via google forms. At the end of each round the results will tallied for the next round of voting matchups.
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Design Responsivo (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
+## Vote
 
-<h2>Projetos</h2>
-
-<script src="https://utteranc.es/client.js"
-        repo="[cvisscher/blue]"
-        issue-term="pathname"
-        theme="github-light"
-        crossorigin="anonymous"
-        async>
-</script>
-
-      <div class="page__comments">
-  
-  
-      <h4 class="page__comments-title">Leave a comment</h4>
-      
-      
-      <p class="small">
-      Comments are powered by <a href="https://utteranc.es/">Utterances</a>. A free <a href="https://github.com/">GitHub account</a> is required. <i>Comments are moderated.</i> <b>Be respectful. No swearing or inflammatory language. No spam.</b><br> <i>I reserve the right to delete any inappropriate comments.</i> All comments for all pages <a href="https://github.com/ElectricRCAircraftGuy/ElectricRCAircraftGuy.github.io/issues?q=label%3Awebsite_comments+"> can be viewed and <i>searched</i> online here</a>.<br><br>
-<b>To edit or delete your comment:</b> <b>Option 1 (recommended):</b> click the date just above your comment, ex: the <code>just now</code> or <code>5 minutes ago</code> (or equivalent) part where it says <code>YOUR_NAME commented just now</code> or <code>YOUR_NAME commented 5 minutes ago</code>, etc., <i>or</i> <b>Option 2:</b> click the "Comments" link at the top of the comments section below where it says how many comments have been left. Option 1 will take you directly to your comment on GitHub. Option 2 will take you to a GitHub page with all comments for this page. Then: --> find your comment on this GitHub page and click the 3 dots in the top-right of your comment --> click "Edit" or "Delete". Editing or adding a comment from the GitHub page also gives you a nicer editor.
-      </p>
-      
-      <section id="utterances-comments"></section>
-    
-</div>
-
-<ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
-</ul>
