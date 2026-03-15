@@ -24,3 +24,5 @@ This is a voting-by-round bracket. For each round you’ll vote for which hymn y
 
 ## Vote
 
+[Round 1 - Eventide Region](https://docs.google.com/forms/d/e/1FAIpQLSdTLB_39uPYXbGLG0z_TS40sI97bC74pC_TUPtQ6CLyvEMESA/viewform?usp=header) Top seed: **Abide with Me (470)** 
+
