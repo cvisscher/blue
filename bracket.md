@@ -32,9 +32,9 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 2: All Hymns**
+**Round 2** voting will open March 21.
 
-Round 1 closes March 20. Round 2 begins March 21.
+**Round 1** closes March 20.
 
 [**Round 1 - Eventide Region**](https://docs.google.com/forms/d/e/1FAIpQLSdTLB_39uPYXbGLG0z_TS40sI97bC74pC_TUPtQ6CLyvEMESA/viewform?usp=header) Top seed: **Abide with Me (470)** 
 
