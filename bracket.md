@@ -28,7 +28,7 @@ The bracket seeding was conducted using a rigorous 2-step methodological approac
 
 The first metric is likely biased by the selection of hymns in the 1980s Christian Reformed Church in Platte, SD; the latter metric is likely biased by the wide array of Baptist and Methodist hymnals.
 
-This is a voting-by-round bracket. For each round you’ll vote for the hymns you’d like to see advance (by whatever personal approach you prefer) via google forms. At the end of each round the results will tallied for the next round of voting matchups.
+This is a voting-by-round bracket. For each round you’ll vote for the hymns you’d like to see advance (by whatever personal approach you prefer) via google forms. At the end of each round the results will tallied for the next round of voting matchups. **Ties will go to the lower-seeded hymn**.
 
 ## Vote
 
