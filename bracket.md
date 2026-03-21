@@ -38,6 +38,8 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Round 1 Results ##
 
+A graphical summary of the Round 1 results [are given here [pdf]](https://cvisscher.github.io/blue/blue-psalter-results-round1.pdf).
+
 **Round 1 - Eventide Region**Top seed: **Abide with Me (470)** 
 
 **Round 1 - Nicea Region**  Top seed: **Holy, Holy, Holy (318)**
