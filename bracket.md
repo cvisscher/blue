@@ -20,7 +20,9 @@ title: "The Blue Psalter Hymnal Bracket"
 In the spirit of March Madness, this is an opportunity to explore the pages of the blue and vote for your favorite hymn (a full list of hymns in the Blue _Psalter Hymnal_ can be found at [hymnary.org](https://hymnary.org/hymnal/BPsH)
 
 ## The Bracket
-The full 64-hymn bracket can be found here: [printable bracket](https://cvisscher.github.io/blue/64-hymn-bracket.pdf)
+The starting full 64-hymn bracket can be found here: [printable bracket](https://cvisscher.github.io/blue/64-hymn-bracket.pdf)
+
+The bracket after one round can be found here: [round 2 bracket](https://cvisscher.github.io/blue/64-hymn-bracket-round-2.pdf)
 
 The bracket seeding was conducted using a rigorous 2-step methodological approach based on a selection of 64 hymns. Note that traditional advent and lent* hymns (*unless it is a song that could be, say, used for communion year-round) have been omitted. 
 1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
