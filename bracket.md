@@ -24,6 +24,8 @@ The starting full 64-hymn bracket can be found here: [printable bracket](https:/
 
 The bracket after one round can be found here: [round 2 bracket](https://cvisscher.github.io/blue/64-hymn-bracket-round-2.pdf)
 
+The bracket after two rounds (Sweet Sixteen) can be found here: [Sweet 16 bracket](https://cvisscher.github.io/blue/64-hymn-bracket-sweet16.pdf)
+
 The bracket seeding was conducted using a rigorous 2-step methodological approach based on a selection of 64 hymns. Note that traditional advent and lent* hymns (*unless it is a song that could be, say, used for communion year-round) have been omitted. 
 1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
 2. A ranking scheme based upon how many hymnals each song appears in, according to hymnary.org
@@ -34,9 +36,15 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 2** voting is open! This round closes the evening of March 24. [**Voting link**](https://docs.google.com/forms/d/e/1FAIpQLSfSVaJGDdndFhQJn33oe9La_qZPZhbHhVDW6Ye6k5SdtpnWyA/viewform?usp=header)
+**Round 3 (Sweet Sixteen)** voting is open! This round closes the evening of March 27. [**Voting link**](https://docs.google.com/forms/d/e/1FAIpQLSdtV9jJcCnXtp62B8eJNeFsaGLwM9Fa920z5Cd8Rpwzg5sn6A/viewform?usp=header)
 
-## Round 1 Results ##
+## Results ##
+
+### Round 2 Results ###
+
+A graphical summary of the Round 2 results [are given here](https://cvisscher.github.io/blue/assets/img/round-2-results.png).
+
+### Round 1 Results ###
 
 A graphical summary of the Round 1 results [are given here [pdf]](https://cvisscher.github.io/blue/blue-psalter-results-round1.pdf).
 
