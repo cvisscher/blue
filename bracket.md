@@ -36,9 +36,12 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 3 (Sweet Sixteen)** voting is open! This round closes the evening of March 27. [**Voting link**](https://docs.google.com/forms/d/e/1FAIpQLSdtV9jJcCnXtp62B8eJNeFsaGLwM9Fa920z5Cd8Rpwzg5sn6A/viewform?usp=header)
+**Round 4 (Elite Eight)** voting is open! This round closes the evening of March 31. [**Voting link**](https://docs.google.com/forms/d/e/1FAIpQLSeQCkcES_JQgfxu0O0F1PiTIDc8zklQAMujzbJeyLbEE8c7mQ/viewform?usp=header)
 
 ## Results ##
+
+### Round 3 Results ###
+A graphical summary of the Round 2 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
 
 ### Round 2 Results ###
 
