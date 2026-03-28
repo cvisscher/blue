@@ -43,7 +43,7 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 ## Results ##
 
 ### Round 3 Results ###
-A graphical summary of the Round 2 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
+A graphical summary of the Round 3 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
 
 ### Round 2 Results ###
 
