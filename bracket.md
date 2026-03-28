@@ -26,6 +26,8 @@ The bracket after one round can be found here: [round 2 bracket](https://cvissch
 
 The bracket after two rounds (Sweet Sixteen) can be found here: [Sweet 16 bracket](https://cvisscher.github.io/blue/64-hymn-bracket-sweet16.pdf)
 
+The bracket after three rounds (Elight Eight) can be found here: [Elite Eight bracket](https://cvisscher.github.io/blue/64-hymn-bracket-elite8.pdf)
+
 The bracket seeding was conducted using a rigorous 2-step methodological approach based on a selection of 64 hymns. Note that traditional advent and lent* hymns (*unless it is a song that could be, say, used for communion year-round) have been omitted. 
 1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
 2. A ranking scheme based upon how many hymnals each song appears in, according to hymnary.org
