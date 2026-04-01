@@ -38,9 +38,12 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 4 (Elite Eight)** voting is open! This round closes the evening of March 31. [**Voting link**](https://docs.google.com/forms/d/e/1FAIpQLSeQCkcES_JQgfxu0O0F1PiTIDc8zklQAMujzbJeyLbEE8c7mQ/viewform?usp=header)
+**Round 5 (Final Four)** voting is open! [Voting link here](https://docs.google.com/forms/d/e/1FAIpQLSf_jUcP0UhBwQCm8BsV7F-z3WEnVEAo6P062xd-cJ9Rh898aw/viewform?usp=publish-editor). This round closes the evening of Thursday April 2. The final round for the champion will close the evening of Saturday April 4.
 
 ## Results ##
+
+### Round 4 Results ###
+A graphical summary of the Round 4 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
 
 ### Round 3 Results ###
 A graphical summary of the Round 3 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
