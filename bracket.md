@@ -28,6 +28,8 @@ The bracket after two rounds (Sweet Sixteen) can be found here: [Sweet 16 bracke
 
 The bracket after three rounds (Elight Eight) can be found here: [Elite Eight bracket](https://cvisscher.github.io/blue/64-hymn-bracket-elite8.pdf)
 
+The bracket after four rounds (Final Four) can be found here: [Elite Eight bracket](https://cvisscher.github.io/blue/64-hymn-bracket-final4.pdf)
+
 The bracket seeding was conducted using a rigorous 2-step methodological approach based on a selection of 64 hymns. Note that traditional advent and lent* hymns (*unless it is a song that could be, say, used for communion year-round) have been omitted. 
 1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
 2. A ranking scheme based upon how many hymnals each song appears in, according to hymnary.org
@@ -38,12 +40,19 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 5 (Final Four)** voting is open! [Voting link here](https://docs.google.com/forms/d/e/1FAIpQLSf_jUcP0UhBwQCm8BsV7F-z3WEnVEAo6P062xd-cJ9Rh898aw/viewform?usp=publish-editor). This round closes the evening of Thursday April 2. The final round for the champion will close the evening of Saturday April 4.
+**Round 5 (Final Four)** voting is open! [Voting link here](https://docs.google.com/forms/d/e/1FAIpQLSf_jUcP0UhBwQCm8BsV7F-z3WEnVEAo6P062xd-cJ9Rh898aw/viewform?usp=publish-editor). The Final Four includes:
+
+* #10 When I Survey The Wondrous Cross (350)
+* #4 Come Thou Fount of Every Blessing (314)
+* #6 When Peace Like A River (445)
+* #7 Great is Thy Faithfulness (408)
+
+This round closes the evening of Thursday April 2. The final round for the champion will close the evening of Saturday April 4.
 
 ## Results ##
 
 ### Round 4 Results ###
-A graphical summary of the Round 4 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
+A graphical summary of the Round 4 results [are given here](https://cvisscher.github.io/blue/assets/img/round-4-results.png).
 
 ### Round 3 Results ###
 A graphical summary of the Round 3 results [are given here](https://cvisscher.github.io/blue/assets/img/round-3-results.png).
