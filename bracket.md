@@ -40,16 +40,17 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 5 (Final Four)** voting is open! [Voting link here](https://docs.google.com/forms/d/e/1FAIpQLSf_jUcP0UhBwQCm8BsV7F-z3WEnVEAo6P062xd-cJ9Rh898aw/viewform?usp=publish-editor). The Final Four includes:
+**Round 6 (Final Round)** voting is open! [Voting link here](https://docs.google.com/forms/d/e/1FAIpQLSf3YrrePNGJP746a6DzC6bgApzFGssM32Jk8BAz_tTo0OqNGw/viewform?usp=header). The final round is between
 
-* #10 When I Survey The Wondrous Cross (350)
 * #4 Come Thou Fount of Every Blessing (314)
 * #6 When Peace Like A River (445)
-* #7 Great is Thy Faithfulness (408)
 
-This round closes the evening of Thursday April 2. The final round for the champion will close the evening of Saturday April 4.
+This round closes the evening of Saturday April 4. The victor will be announced on Easter morning, Sunday, April 5.
 
 ## Results ##
+
+### Round 5 Results ###
+A graphical summary of the Round 5 results [are given here](https://cvisscher.github.io/blue/assets/img/round-5-results.png). 
 
 ### Round 4 Results ###
 A graphical summary of the Round 4 results [are given here](https://cvisscher.github.io/blue/assets/img/round-4-results.png).
