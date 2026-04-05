@@ -32,6 +32,8 @@ The bracket after four rounds (Final Four) can be found here: [Elite Eight brack
 
 The bracket after five rounds (Final Round) can be found here: [Elite Eight bracket](https://cvisscher.github.io/blue/64-hymn-bracket-final2.pdf)
 
+The final bracket can be found here: [Final bracket](https://cvisscher.github.io/blue/64-hymn-bracket-final1.pdf)
+
 The bracket seeding was conducted using a rigorous 2-step methodological approach based on a selection of 64 hymns. Note that traditional advent and lent* hymns (*unless it is a song that could be, say, used for communion year-round) have been omitted. 
 1. A 1-5 star rating by me (based upon my feelings about each song during a layover), followed by
 2. A ranking scheme based upon how many hymnals each song appears in, according to hymnary.org
@@ -50,6 +52,10 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 This round closes the evening of Saturday April 4. The victor will be announced on Easter morning, Sunday, April 5.
 
 ## Results ##
+
+### Final Results ###
+
+The winner of the 2026 Blue Psalter Hymnal Bracket is: **#6 When Peace Like A River (445)**! A graphical summary of the final round [is given here](https://cvisscher.github.io/blue/assets/img/round-6-results.png). 
 
 ### Round 5 Results ###
 A graphical summary of the Round 5 results [are given here](https://cvisscher.github.io/blue/assets/img/round-5-results.png). 
