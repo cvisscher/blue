@@ -44,12 +44,14 @@ This is a voting-by-round bracket. For each round you’ll vote for the hymns yo
 
 ## Vote
 
-**Round 6 (Final Round)** voting is open! [Voting link here](https://docs.google.com/forms/d/e/1FAIpQLSf3YrrePNGJP746a6DzC6bgApzFGssM32Jk8BAz_tTo0OqNGw/viewform?usp=header). The final round is between
+**Round 6 (Final Round)** 
+
+The final round is between
 
 * #4 Come Thou Fount of Every Blessing (314)
 * #6 When Peace Like A River (445)
 
-This round closes the evening of Saturday April 4. The victor will be announced on Easter morning, Sunday, April 5.
+Voting is now closed. Thanks for participating in the 2026 Blue Psalter Hymnal Bracket!
 
 ## Results ##
 
